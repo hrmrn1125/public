@@ -8,7 +8,6 @@
     <div class="textWrap">
       <a>
         原 茉利奈と申します。1996年3月31日、千葉県船橋市生まれ。東京都あきる野市在住。<br>
-        Webデザインやフロントエンド周りを幅広く実施・社内教育しています。
       </a>
     </div>
     <button class="GoBtn" @click="goTop"><span>一番上へ</span></button>
